@@ -3,7 +3,7 @@ pragma solidity 0.8.26;
 
 /**
  * @title KipuBank
- * @author Your Name
+ * @author Pedro Arias: http://github.com/PedroAriasDev
  * @notice A secure banking contract that allows users to deposit and withdraw native tokens (ETH)
  * @dev Implements security best practices including CEI pattern, custom errors, and safe transfer handling
  */

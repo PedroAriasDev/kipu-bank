@@ -210,8 +210,8 @@ Once your contract is deployed and verified on Etherscan, you can interact with 
 ## 🌐 Testnet Deployment
 
 **Network**: Sepolia Testnet  
-**Contract Address**: 0x683744a10becaf9fb389b4186b789f8f52d02dd8  
-**Explorer**: https://sepolia.etherscan.io/address/0x683744a10becaf9fb389b4186b789f8f52d02dd8#code
+**Contract Address**: 0x3fE5e8C55A9457bF856C10C313D5C064fe353aA0
+**Explorer**: https://sepolia.etherscan.io/address/0x3fe5e8c55a9457bf856c10c313d5c064fe353aa0#code
 
 ## 📝 License
 
